@@ -19,4 +19,4 @@ jobs:
         uses: actions/dependency-review-action@main
         with:
           comment-summary-in-pr: true
-          allow-licenses: "EPL-1.0,LGPL-2.1,LGPL-2.1-only,EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only"
+          allow-licenses: "EPL-1.0,LGPL-2.1,LGPL-2.1-only,EPL-1.0 AND LGPL-2.1 AND LGPL-2.1-only,MIT"
